@@ -106,6 +106,8 @@ It contains all available talks, their attachments and other interesting informa
   - :snake: _Jorge Barata_
   - :alarm_clock:  2019-10-05 12:30
   - :clipboard:  PySOA is a general-purpose library created by Eventbrite for writing Python (micro)services, using Redis as a message broker. In this talk we'll learn how it works under the hood.At Eventbrite most of our services are based on PySOA, serving thousands of requests per second.Slides: https://docs.google.com/presentation/d/1E_MoEvkJ_gZzGhlS4NjN6juil56PR2fGfWL_J8XTcwo/edit?usp=sharing
+  - :open_file_folder: Attachments
+    - :paperclip: [Google Slides](https://docs.google.com/presentation/d/1E_MoEvkJ_gZzGhlS4NjN6juil56PR2fGfWL_J8XTcwo/edit?usp=sharing)
   - :link: [More info](https://pycones19.sched.com/event/3e69f973929aa882989f00514466cd34)
 ### Chatops 101 con opsdroid
   - :snake: _Àngel Fernández_
